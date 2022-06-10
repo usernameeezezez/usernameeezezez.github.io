@@ -1,0 +1,40 @@
+.row{
+    padding: 70px 0;
+    align-items: center;
+    color: rgb(0, 0, 0);
+}
+body{
+    background-image: url(ua1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Press Start 2P', cursive;
+}
+.text1{
+  font-size: large;
+  background-color: rgba(255, 255, 255, 0.44);
+  font-family: 'Press Start 2P', cursive;
+}
+.ez{
+    background-image: url(ezds.jpg);
+    height: 200px;
+    background-size: cover;
+    color: black;
+    text-align: center;
+    align-items: center;
+    font-family: 'Yeseva One', sans-serif;
+    background-position: 20% 20%;
+    font-family: 'Press Start 2P', cursive;
+}
+.fon{
+    color: aqua;
+}
+.game1{
+    background-color: azure;
+}
+footer{
+    background-color: rgb(0, 152, 137);
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin-top: 50px;
+    color: gray;
+}
